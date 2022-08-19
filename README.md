@@ -1,9 +1,3 @@
-### Hi there 👋
-
-**lammiejay/lammiejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: 
         
 - 🌱 I’m currently learning ...
@@ -14,7 +8,7 @@ Here are some ideas to get you started:
         Email: lammiejay02@gmail.com
         mobile: +2348064559546
         twitter: @lammiejay1
-        instagram: lammiejay
+        instagram: @lammiejay
 - 😄 Pronouns: HE/ HIM/ HIS
 - ⚡ Fun fact: ...
 
