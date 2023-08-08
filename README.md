@@ -1,7 +1,7 @@
-- 🔭 I’m currently working on: A fully functional and responsive website for the church I attend.
+- 🔭 I’m currently working on: learning other JavaScript frameworks
         
 - 🌱 I’m currently learning more on Javascript and its frameworks (React majorly).
-- 👯 I’m looking to collaborate on projects that test my skills in JS, React and CSS. 
+- 👯 I’m looking to collaborate on projects that test my JS, React and CSS skills. 
 - 🤔 I’m looking for help with nothing at the moment.
 - 💬 Ask me about whatever you need help in.
 - 📫 How to reach me: 
